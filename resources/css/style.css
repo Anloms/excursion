@@ -11,13 +11,14 @@ font-weight: normal;
 text-align: center;
 }
 h2 {
-font-family: Verdana, san-serif;
+font-family: Verdana, sans-serif;
 color: white;
 font-weight: 300;
 text-align: center;
 }
 h6 {
 color: aquamarine;
+font-family: Verdana, sans-serif;
 font-size: 16px;
 }
 
@@ -27,5 +28,5 @@ font-size: 21px;
 color: gray;
 }
 .footer {
-margin-right:10px;
+float: right;
 }
